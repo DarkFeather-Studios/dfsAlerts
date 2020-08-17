@@ -4,6 +4,7 @@
 - This resource depends on mythic_notify, but this dependency can be removed in under an hour.
 - This resource depends on an unreleased DFS resource, but this dependency can be removed in under an hour.
 - This resource depends on DFS db_perms, but this dependency can be removed in under an hour. https://github.com/DarkFeather-Studios/dfsdb_perms
+- Some resources in the DFS network rely on this resource.
 
 Events;
 
