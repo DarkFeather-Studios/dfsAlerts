@@ -3,7 +3,7 @@
 - This resource depends on DFS Base. https://github.com/DarkFeather-Studios/fivem_framework
 - This resource depends on mythic_notify, but this dependency can be removed in under an hour.
 - This resource depends on an unreleased DFS resource, but this dependency can be removed in under an hour.
-- This resource depends on DFS db_perms, but this dependency can be removed in under an hour.
+- This resource depends on DFS db_perms, but this dependency can be removed in under an hour. https://github.com/DarkFeather-Studios/dfsdb_perms
 
 Events;
 
